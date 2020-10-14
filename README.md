@@ -6,14 +6,16 @@ I'm a reverse engineer programmer, Contributor to the Android Open Source Projec
 
     Programming languages I enjoy: 
 Javascript:
+
 ![enter image description here](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/240px-JavaScript-logo.png)
+
 Kotlin:
+
 ![enter image description here](https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin-logo.svg/240px-Kotlin-logo.svg.png)
+
 and BASH:
+
 ![enter image description here](https://raw.githubusercontent.com/odb/official-bash-logo/master/assets/Logos/Icons/SVG/256x256.svg)
-
-
-Here are some ideas to get you started:
 
 🔭 I’m currently working on: A dahliaOS Refind flavour
 📫 How to reach me: You can email me at puntillol@linuxmail.org
