@@ -15,7 +15,7 @@ Kotlin:
 
 and BASH:
 
-![enter image description here](https://raw.githubusercontent.com/odb/official-bash-logo/master/assets/Logos/Icons/SVG/256x256.svg)
+![enter image description here](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/240px-Bash_Logo_Colored.svg.png)
 
 🔭 I’m currently working on: A dahliaOS Refind flavour
 📫 How to reach me: You can email me at puntillol@linuxmail.org
