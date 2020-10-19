@@ -2,7 +2,7 @@
 
 ![enter image description here](https://avatars2.githubusercontent.com/u/62703475?s=460&u=5f2be3053160e23f1421cab3a2272a7b39ecb7b3&v=4)
 
-I'm a reverse engineer programmer, Contributor to the Android Open Source Project, and Code review / contributor to the Chromium Project.
+I'm a reverse engineer programmer, Contributor to the Android Open Source Project, Code review / contributor to the Chromium Project and now a contibutor to Ubuntu!
 
     Programming languages I enjoy: 
 Javascript:
