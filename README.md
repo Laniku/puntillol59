@@ -21,3 +21,5 @@ and BASH:
 
 📫 How to reach me: You can email me at puntillol@linuxmail.org
 
+Stats:
+![puntillol59's Github stats](https://github-readme-stats.vercel.app/api?username=puntillol59)
