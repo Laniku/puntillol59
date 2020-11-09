@@ -24,3 +24,5 @@ and BASH:
 ## Stats:
 
 ![puntillol59's Github stats](https://github-readme-stats.vercel.app/api?username=puntillol59)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=puntillol59)]
