@@ -1,6 +1,7 @@
 ## Hiya! I am `puntillol59`!
 
 ![activity](https://img.shields.io/static/v1?label=Account&message=Active&color=blue&style=plastic&logo=Git)
+
 ![glitch](https://img.shields.io/badge/Glitch-%40puntillol59-ff69b4?style=plastic&logo=glitch)
 
 ![enter image description here](https://avatars2.githubusercontent.com/u/62703475?s=460&u=5f2be3053160e23f1421cab3a2272a7b39ecb7b3&v=4)
