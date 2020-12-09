@@ -27,4 +27,4 @@ and BASH:
 
 ## Stats:
 
-![puntillol59's Github stats](https://github-readme-stats.vercel.app/api?username=puntillol59&show_icons=true)
+![puntillol59's Github stats](https://github-readme-stats.vercel.app/api?username=puntillol59&show_icons=true&theme=tokyonight)
