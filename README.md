@@ -4,6 +4,8 @@
 
 ![glitch](https://img.shields.io/badge/Glitch-%40puntillol59-ff69b4?style=plastic&logo=glitch)
 
+![repl-it](https://img.shields.io/badge/repl.it-%40LucasPuntillo-lightgrey?style=plastic&logo=repl.it)
+
 ![enter image description here](https://avatars0.githubusercontent.com/u/62703475?s=460&u=a7ab952ab03392ebff3380d0b743219e34c93e19&v=4)
 
 I'm a reverse engineer programmer, Contributor to the Android Open Source Project, Code review / contributor to the Chromium Project and now a contibutor to Ubuntu!
