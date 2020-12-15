@@ -6,7 +6,7 @@
 
 ![repl-it](https://img.shields.io/badge/repl.it-%40LucasPuntillo-lightgrey?style=plastic&logo=repl.it)
 
-![enter image description here](https://avatars0.githubusercontent.com/u/62703475?s=460&u=a7ab952ab03392ebff3380d0b743219e34c93e19&v=4)
+![enter image description here](https://avatars2.githubusercontent.com/u/62703475?s=460&u=e9cc9d79106ba2af92f0f22fa0a0d04ec34997ef&v=4)
 
 I'm a reverse engineer programmer, Contributor to the Android Open Source Project, Code review / contributor to the Chromium Project and now a contibutor to Ubuntu!
 
