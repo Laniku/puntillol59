@@ -11,9 +11,7 @@ I'm a reverse engineer programmer, Contributor to the Android Open Source Projec
     Programming languages I enjoy: 
 
 ![js](https://img.shields.io/badge/*-Javascript-yellow?style=plastic&logo=javascript)
-
 ![kt](https://img.shields.io/badge/*-Kotlin-blue?style=plastic&logo=kotlin)
-
 ![bash](https://img.shields.io/badge/*-bash-lightgrey?style=plastic&logo=gnu-bash)
 
 🔭 I’m currently working on: A dahliaOS rEFInd flavour
