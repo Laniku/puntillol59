@@ -11,15 +11,10 @@
 I'm a reverse engineer programmer, Contributor to the Android Open Source Project, Code review / contributor to the Chromium Project and now a contibutor to Ubuntu!
 
     Programming languages I enjoy: 
-Javascript:
 
 ![enter image description here](https://img.shields.io/badge/*-Javascript-yellow?style=plastic&logo=javascript)
 
-Kotlin:
-
 ![enter image description here](https://img.shields.io/badge/*-Kotlin-blue?style=plastic&logo=kotlin)
-
-and BASH:
 
 ![enter image description here](https://img.shields.io/badge/*-bash-lightgrey?style=plastic&logo=gnu-bash)
 
