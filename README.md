@@ -9,7 +9,7 @@
 [![linux](https://img.shields.io/badge/OS:-Linux-yellow?style=plastic&logo=linux)](https://kubuntu.org/)
 [![windows](https://img.shields.io/badge/OS:-Windows-9cf?style=plastic&logo=windows)](https://www.microsoft.com/en-ca/windows)
 
-![logo](https://lh3.googleusercontent.com/A4uHoXZFPuqtHSaf_1l8kmWTwU1YT21fBkr6tADw1faPZm6ffEOVp80WisOCxbs_jdzfpcPz-fFeVIEYAn3KTRO3L-WFW8eMh1amyzGC4oX5pigpeFB79DHxMBJUwQGO8YR0224k6EO1gjvls78gXkZ6QQVusP6BjBGFUM1UOy_FB3xp6R2lBTsDpMRrE22wBYdF7SUGPRI_xOqvGwnEVjm_5DOyC44l4kYJm2sMl_UGkybivtYN6J-5csLs2DR4NOVFGbXxE8iV8rdappLl_kK6qbv1QCIQ4TcRtrE9h8uaTDjaxOZjZRsF0cP-vDLdOZjNxx-Fdv9bL0EVqQbbDDgaYuXaKIZ2uLECD1mldazGO9e4jawnezefpuQgET3DHj6ZJ10C0GgP9erkpM12JZEb5vcMVwEnJ8ZtY8ByrloZHVZdZLiQkb4UbgfXe08y912Ehz1OYjgZqNHEK-4_-_J2c4XlIPpROhf-yOmBv1kBQrc935whwYrrITzdrIIjnfGLXgBWPA4AwhiSDjmtI7nnnyiVd0miJJiHBk6OFnjLv1zmDovHnXithrPXGoem7KX4YbEBELKIEHOyCC2nYhNimfywDYzSKl17XClg8i7iQ5hYwbQqQAFfoHVA_-K1XedP_q6vMyjkAIp5Zy2nAKoLWGaxTYloUAMvsAt0u-4en1fIXIKyiOgzXTny=s218-no?authuser=0)
+![logo](https://i.imgur.com/jAYaz7t.png)
 
 I'm a reverse engineer programmer, Contributor to the Android Open Source Project, Code review / contributor to the Chromium Project and now a contibutor to Ubuntu!
 
