@@ -26,3 +26,6 @@ I'm a reverse engineer programmer, Contributor to the Android Open Source Projec
 ## Stats:
 
 ![puntillol59's Github stats](https://github-readme-stats.vercel.app/api?username=puntillol59&show_icons=true&theme=tokyonight)
+
+## Profile Visits
+[![Visits Badge](https://badges.pufler.dev/visits/puntillol59)](https://badges.pufler.dev)
