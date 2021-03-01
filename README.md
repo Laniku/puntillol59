@@ -5,10 +5,6 @@
 [![repl-it](https://img.shields.io/badge/repl.it-%40LucasPuntillo-lightgrey?style=plastic&logo=repl.it)](http://repl.it/@LucasPuntillo)
 [![my-website](https://img.shields.io/badge/Website:-Online-blueviolet?style=plastic&logo=internet-explorer)](http://puntillol59.ml)
 
-[![crOS](https://img.shields.io/badge/OS:-chromeOS-informational?style=plastic&logo=google-chrome)](https://www.google.com/chromebook/)
-[![linux](https://img.shields.io/badge/OS:-Linux-yellow?style=plastic&logo=linux)](https://kubuntu.org/)
-[![windows](https://img.shields.io/badge/OS:-Windows-9cf?style=plastic&logo=windows)](https://www.microsoft.com/en-ca/windows)
-
 ![logo](https://i.imgur.com/jAYaz7t.png)
 
 I'm a reverse engineer programmer, Contributor to the Android Open Source Project, Code review / contributor to the Chromium Project and now a contibutor to Ubuntu!
@@ -18,6 +14,17 @@ I'm a reverse engineer programmer, Contributor to the Android Open Source Projec
 ![js](https://img.shields.io/badge/*-Javascript-yellow?style=plastic&logo=javascript)
 ![kt](https://img.shields.io/badge/*-Kotlin-blue?style=plastic&logo=kotlin)
 ![bash](https://img.shields.io/badge/*-bash-lightgrey?style=plastic&logo=gnu-bash)
+
+## Tools
+
+[![crOS](https://img.shields.io/badge/OS:-chromeOS-informational?style=plastic&logo=google-chrome)](https://www.google.com/chromebook/)
+[![linux](https://img.shields.io/badge/OS:-Linux-yellow?style=plastic&logo=linux)](https://ubuntu.com/)
+[![windows](https://img.shields.io/badge/OS:-Windows-9cf?style=plastic&logo=windows)](https://www.microsoft.com/en-ca/windows)
+[![emacs](https://img.shields.io/badge/Editor:-Emacs-blueviolet?style=plastic&logo=gnu-emacs)](https://www.gnu.org/software/emacs/)
+[![vscode](https://img.shields.io/badge/Editor:-VScode-blue?style=plastic&logo=visual-studio-code)](https://code.visualstudio.com/)
+[![ff](https://img.shields.io/badge/Browser:-Firefox%20Beta-orange?style=plastic&logo=firefox-browser)](https://www.mozilla.org/en-CA/firefox/channel/desktop/)
+
+## Misc.
 
 🔭 I’m currently working on: my own OS
 
