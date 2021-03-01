@@ -19,13 +19,10 @@ I'm a reverse engineer programmer, Contributor to the Android Open Source Projec
 ![kt](https://img.shields.io/badge/*-Kotlin-blue?style=plastic&logo=kotlin)
 ![bash](https://img.shields.io/badge/*-bash-lightgrey?style=plastic&logo=gnu-bash)
 
-🔭 I’m currently working on: A dahliaOS rEFInd flavour
+🔭 I’m currently working on: my own OS
 
 📫 How to reach me: You can email me at puntillol@linuxmail.org
 
 ## Stats:
 
 ![puntillol59's Github stats](https://github-readme-stats.vercel.app/api?username=puntillol59&show_icons=true&theme=tokyonight)
-
-## Profile Visits
-![pvisit](https://komarev.com/ghpvc/?username=puntillol59)
