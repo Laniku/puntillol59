@@ -19,6 +19,7 @@ I'm a reverse engineer programmer, Contributor to the Android Open Source Projec
 
 [![crOS](https://img.shields.io/badge/OS:-chromeOS-informational?style=plastic&logo=google-chrome)](https://www.google.com/chromebook/)
 [![linux](https://img.shields.io/badge/OS:-Linux-yellow?style=plastic&logo=linux)](https://ubuntu.com/)
+[![macOS](https://img.shields.io/badge/OS:-macOS%20Mojave-lightgrey?style=plastic&logo=macos)](https://support.apple.com/en-ca/macos)
 [![windows](https://img.shields.io/badge/OS:-Windows-9cf?style=plastic&logo=windows)](https://www.microsoft.com/en-ca/windows)
 [![emacs](https://img.shields.io/badge/Editor:-Emacs-blueviolet?style=plastic&logo=gnu-emacs)](https://www.gnu.org/software/emacs/)
 [![vscode](https://img.shields.io/badge/Editor:-VScode-blue?style=plastic&logo=visual-studio-code)](https://code.visualstudio.com/)
