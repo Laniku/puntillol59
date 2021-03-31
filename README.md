@@ -7,7 +7,7 @@
 
 ![logo](https://i.imgur.com/jAYaz7t.png)
 
-I'm a reverse engineer programmer, Contributor to the Android Open Source Project, Code review / contributor to the Chromium Project and now a contibutor to Ubuntu!
+I'm a reverse engineer programmer, Contributor to the Android Open Source Project, Code review / contributor to the Chromium Project a contibutor to Ubuntu, and now, a Windows 95 PC OEM!
 
     Programming languages I enjoy: 
 
