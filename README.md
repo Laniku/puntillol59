@@ -31,6 +31,8 @@ I'm a reverse engineer programmer, Contributor to the Android Open Source Projec
 
 📫 How to reach me: You can email me at puntillol@linuxmail.org
 
+Pc Setup info: https://puntillol59.github.io/puntillol59/misc/Setup.htm
+
 ## Stats:
 
 ![puntillol59's Github stats](https://github-readme-stats.vercel.app/api?username=puntillol59&show_icons=true&theme=tokyonight)
