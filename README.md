@@ -1,5 +1,3 @@
-## Hiya! I am `puntillol59`!
-
 Hi welcome to hell is this take out or dine in
 
 ## Stats:
